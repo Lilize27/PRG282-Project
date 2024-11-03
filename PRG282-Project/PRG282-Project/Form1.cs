@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace PRG282_Project
 {
-    public partial class Form1 : Form
+    public partial class frmStudent : Form
     {
-        public Form1()
+        public frmStudent()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
